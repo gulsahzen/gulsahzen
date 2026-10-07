@@ -6,7 +6,7 @@
 
 <br />
 
-### Gulsah Sarsilmaz
+### Gulsah Waldrum
 **Engineering Manager · IDS App** · Zensurance · Toronto, ON
 
 <sub>Leading the team behind IDS — the identity & data surface powering how Zensurance knows its customers.</sub>
